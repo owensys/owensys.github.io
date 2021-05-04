@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on OWEN&#39;S BLOG</title>
-    <link>https://owensys.github.io/posts/categories/</link>
+    <link>https://owensys.github.io/categories/</link>
     <description>Recent content in Categories on OWEN&#39;S BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://owensys.github.io/posts/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://owensys.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test</title>
-      <link>https://owensys.github.io/posts/categories/test/</link>
+      <link>https://owensys.github.io/categories/test/</link>
       <pubDate>Tue, 04 May 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://owensys.github.io/posts/categories/test/</guid>
+      <guid>https://owensys.github.io/categories/test/</guid>
       <description></description>
     </item>
     
