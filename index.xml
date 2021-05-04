@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OWEN&#39;S BLOG</title>
+    <link>https://owensys.github.io/posts/</link>
+    <description>Recent content on OWEN&#39;S BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://owensys.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Export to hugo test</title>
+      <link>https://owensys.github.io/posts/posts/export-to-hugo-test/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://owensys.github.io/posts/posts/export-to-hugo-test/</guid>
+      <description>code blocks bool Database::begin() { try { _db.execDML(&amp;#34;BEGIN EXCLUSIVE TRANSACTION&amp;#34;); return true; } catch (CppSQLite3Exception&amp;amp; e) { qDebug() &amp;lt;&amp;lt; &amp;#34;begin transaction db exception:&amp;#34; &amp;lt;&amp;lt; e.errorMessage(); } return false; } plantuml  attach files pdb.doc</description>
+    </item>
+    
+    <item>
+      <title>把qtcreator中太多的提示关掉</title>
+      <link>https://owensys.github.io/posts/posts/%E6%8A%8Aqtcreator%E4%B8%AD%E5%A4%AA%E5%A4%9A%E7%9A%84%E6%8F%90%E7%A4%BA%E5%85%B3%E6%8E%89/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://owensys.github.io/posts/posts/%E6%8A%8Aqtcreator%E4%B8%AD%E5%A4%AA%E5%A4%9A%E7%9A%84%E6%8F%90%E7%A4%BA%E5%85%B3%E6%8E%89/</guid>
+      <description>qt5.12开始，写代码时出现很多红色和黄色的提示，不想一直看到，可以把它关闭。 把 Clang Code Model 设置成Clazy level0 checks 就可以了。
+ attach </description>
+    </item>
+    
+  </channel>
+</rss>

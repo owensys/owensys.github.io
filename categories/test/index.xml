@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on OWEN&#39;S BLOG</title>
+    <link>https://owensys.github.io/posts/categories/test/</link>
+    <description>Recent content in test on OWEN&#39;S BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://owensys.github.io/posts/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Export to hugo test</title>
+      <link>https://owensys.github.io/posts/posts/export-to-hugo-test/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://owensys.github.io/posts/posts/export-to-hugo-test/</guid>
+      <description>code blocks bool Database::begin() { try { _db.execDML(&amp;#34;BEGIN EXCLUSIVE TRANSACTION&amp;#34;); return true; } catch (CppSQLite3Exception&amp;amp; e) { qDebug() &amp;lt;&amp;lt; &amp;#34;begin transaction db exception:&amp;#34; &amp;lt;&amp;lt; e.errorMessage(); } return false; } plantuml  attach files pdb.doc</description>
+    </item>
+    
+  </channel>
+</rss>
